@@ -43,10 +43,10 @@
 ## 📂 Featured Projects
 
 ### 🧠 [RAG-Based Knowledge Assistant](https://github.com/btarank/RAG-Based-Knowledge-Assistant)
-> ⚠️ *Uploading soon*
+
 
 An intelligent knowledge assistant built on Retrieval-Augmented Generation — answers questions from a custom document corpus using LLM + vector search, with no hallucinations from stale training data.
-`LangChain` `RAG` `Vector Database` `OpenAI` `Python` `FAISS`
+`LangChain` `RAG` `Vector Database`  `Python` `FAISS`
 
 ---
 
