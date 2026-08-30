@@ -50,7 +50,7 @@ An intelligent knowledge assistant built on Retrieval-Augmented Generation — a
 
 ---
 
-### 🤖 [Autonomous AI Agent System](https://github.com/btarank/Autonomous-AI-Agent)
+### 🤖 [ResearchPilot: Multi Agent System](https://github.com/btarank/Researchpilot)
 > ⚠️ *Uploading soon*
 
 Multi-agent workflow automation system where specialized AI agents collaborate to complete complex tasks end-to-end — planning, execution, tool use, and result synthesis without human intervention.
